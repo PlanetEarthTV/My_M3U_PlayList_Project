@@ -13,3 +13,6 @@ https://www.youtube.com/BloombergHT/live
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg Podcasts" tvg-logo="https://yt3.googleusercontent.com/PXTURrVHPIkg8Vmb3AvphcIBcSKE33kqDOgyeUvVLFsDAkEGamXpaEhEYh9YNERkvrW1BBmC=s160-c-k-c0x00ffffff-no-rj" tvg-group="USA/News" group-title="United States of America / News", Bloomberg Live Business Finance Earnings & Investment News (YouTube)
 https://www.youtube.com/bloombergpodcasts/live
 
+#EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" tvg-group="India/News" group-title="India / Movies", Bollygold
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-g6lvasa1ob5y5.m3u8
+
