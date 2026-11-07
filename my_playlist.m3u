@@ -1,18 +1,16 @@
 
+
+
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-name="Bloomberg News" tvg-logo="https://yt3.googleusercontent.com/W4EY61Z3XtIfsGI6TjdT-EsMudJL9rhzdRyXCmOqGiCLRt4dMz9Jmn8_ApOqf-KRe3PnAM9jbSA=s120-c-k-c0x00ffffff-no-rj" tvg-group="USA/News/Documentaries" group-title="United States of America / News / Documentaries", Bloomberg Originals Live News Documentaries & More (YouTube)
-https://www.youtube.com/@Bloomberg-News/live
 
-#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-name="Bloomberg Television" tvg-logo="https://yt3.googleusercontent.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s120-c-k-c0x00ffffff-no-rj" tvg-group="USA/News" group-title="United States of America / News", Bloomberg Business News Live (YouTube)
-https://www.youtube.com/@markets/live
-
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="BloombergHT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg=s160-c-k-c0x00ffffff-no-rj" tvg-group="Turkey/News" group-title="Turkey / News", Bloomberg HT Canlı Yayın (YouTube)
-https://www.youtube.com/BloombergHT/live
-
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Podcasts" tvg-logo="https://yt3.googleusercontent.com/PXTURrVHPIkg8Vmb3AvphcIBcSKE33kqDOgyeUvVLFsDAkEGamXpaEhEYh9YNERkvrW1BBmC=s160-c-k-c0x00ffffff-no-rj" tvg-group="USA/News" group-title="United States of America / News", Bloomberg Live Business Finance Earnings & Investment News (YouTube)
-https://www.youtube.com/bloombergpodcasts/live
-
-#EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" tvg-group="India/News" group-title="India / Movies", Bollygold
+#EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" tvg-group="India/Samsung" group-title="India;Samsung", Bollygold
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-g6lvasa1ob5y5.m3u8
+
+
+
+# Comment -----------------------------------------------------------------------------------------------------------------------
+
+# Comment --- Cover TODO Add Content from Playlist URLs : https://github.com/PlanetEarthTV/github.com_BuddyChewChew_app-m3u-generator/tree/main/playlists
+
 
