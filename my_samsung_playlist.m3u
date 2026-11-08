@@ -594,40 +594,40 @@ https://amg01076-amg01076c8-samsung-in-7058.playouts.now.amagi.tv/playlist/amg01
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeewion-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBA4900023QJ" tvg-id="INBA4900023QJ" tvg-chno="2019" tvg-name="Xplore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20260623T010424SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Infotainment",Xplore
-https://jmp2.uk/stvp-INBA4900023QJ
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN46000011Q" tvg-id="IN46000011Q" tvg-chno="2006" tvg-name="XXTreme Jobs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20260623T013253SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Infotainment",XXTreme Jobs
-https://jmp2.uk/stvp-IN46000011Q
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-e1176l2ngviwl.m3u8
 
 #EXTINF:-1 channel-id="INBD400003GE" tvg-id="INBD400003GE" tvg-chno="1520" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20260623T013259SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",Zee 24 Ghanta
-https://jmp2.uk/stvp-INBD400003GE
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zee24ghanta-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD4000027E" tvg-id="INBD4000027E" tvg-chno="1510" tvg-name="Zee 24 Kalak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20260623T013305SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",Zee 24 Kalak
-https://jmp2.uk/stvp-INBD4000027E
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeekalak-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD400001CP" tvg-id="INBD400001CP" tvg-chno="1486" tvg-name="Zee 24 Taas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20260929T041420SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",Zee 24 Taas
-https://jmp2.uk/stvp-INBD400001CP
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zee24taas-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD400004NS" tvg-id="INBD400004NS" tvg-chno="1448" tvg-name="Zee Business" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20260728T010502SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",Zee Business
-https://jmp2.uk/stvp-INBD400004NS
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeebusiness-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN21000014R" tvg-id="IN21000014R" tvg-chno="1115" tvg-name="Zee Cine Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20261026T044106SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",Zee Cine Classic
-https://jmp2.uk/stvp-IN21000014R
+https://amg00862-amg00862c8-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN2100002GD" tvg-id="IN2100002GD" tvg-chno="1202" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20261013T051727SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Zee Comedy Nation
-https://jmp2.uk/stvp-IN2100002GD
+https://amg00862-amg00862c5-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN2100003OJ" tvg-id="IN2100003OJ" tvg-chno="1008" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20261026T044112SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Zee Dil Se
-https://jmp2.uk/stvp-IN2100003OJ
+https://amg00862-amg00862c6-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN2100004C4" tvg-id="IN2100004C4" tvg-chno="1212" tvg-name="Zee Horror Nights" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260623T013340SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Zee Horror Nights
-https://jmp2.uk/stvp-IN2100004C4
+https://amg00862-amg00862c7-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBC4300010Z6" tvg-id="INBC4300010Z6" tvg-chno="1402" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260915T042211SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",Zee News
-https://jmp2.uk/stvp-INBC4300010Z6
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeenews-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN2100005T2" tvg-id="IN2100005T2" tvg-chno="1121" tvg-name="Zee South Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",Zee South Flix
-https://jmp2.uk/stvp-IN2100005T2
+https://amg00862-amg00862c9-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0016/playlist.m3u8
 
 
 
