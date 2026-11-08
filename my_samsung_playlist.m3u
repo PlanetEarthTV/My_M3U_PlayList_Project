@@ -12,163 +12,163 @@
 
 
 #EXTINF:-1 channel-id="INBC2800013L6" tvg-id="INBC2800013L6" tvg-chno="1604" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20260623T013459SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Jalwa
-https://jmp2.uk/stvp-INBC2800013L6
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBC28000144H" tvg-id="INBC28000144H" tvg-chno="1632" tvg-name="9X Jhakaas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20260623T013505SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Jhakaas
-https://jmp2.uk/stvp-INBC28000144H
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBC2800011JL" tvg-id="INBC2800011JL" tvg-chno="1636" tvg-name="9X Tashan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20260623T013512SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Tashan
-https://jmp2.uk/stvp-INBC2800011JL
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN38000050P" tvg-id="IN38000050P" tvg-chno="1600" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9XM
-https://jmp2.uk/stvp-IN38000050P
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q4ao9zhscna6u.m3u8
 
 #EXTINF:-1 channel-id="IN4900011OU" tvg-id="IN4900011OU" tvg-chno="1667" tvg-name="@K-MUSIC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260623T013522SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",@K-MUSIC
-https://jmp2.uk/stvp-IN4900011OU
+https://ads.its-newid.net/api/manifest.m3u8
 
 #EXTINF:-1 channel-id="IN3800001ZH" tvg-id="IN3800001ZH" tvg-chno="1007" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",Aaj Tak HD
-https://jmp2.uk/stvp-IN3800001ZH
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-t34to9qsw6v1s.m3u8
 
 #EXTINF:-1 channel-id="IN3800004BF" tvg-id="IN3800004BF" tvg-chno="1416" tvg-name="AajTak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800004BF_20260701T005041SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",AajTak
-https://jmp2.uk/stvp-IN3800004BF
+https://cc-w4jus6xfd4bl2.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w4jus6xfd4bl2/livetv/clients/samsung/aajtak_samsung_v3.m3u8
 
 #EXTINF:-1 channel-id="IN3900027S7" tvg-id="IN3900027S7" tvg-chno="1201" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261020T052417SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Aashirwad TV
-https://jmp2.uk/stvp-IN3900027S7
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-l4etigtqsegxm.m3u8
 
 #EXTINF:-1 channel-id="IN4000006CF" tvg-id="IN4000006CF" tvg-chno="1518" tvg-name="ABP Ananda" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261013T051733SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",ABP Ananda
-https://jmp2.uk/stvp-IN4000006CF
+https://cc-uml26l35wvj5l.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uml26l35wvj5l/hls/live/2042873/ananda/master.m3u8
 
 #EXTINF:-1 channel-id="INBD400010BD" tvg-id="INBD400010BD" tvg-chno="1504" tvg-name="ABP Asmita" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20260623T013536SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",ABP Asmita
-https://jmp2.uk/stvp-INBD400010BD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-abpasmita-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN4000005BW" tvg-id="IN4000005BW" tvg-chno="1484" tvg-name="ABP Majha" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20260623T013543SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",ABP Majha
-https://jmp2.uk/stvp-IN4000005BW
+https://cc-6wo91t9ny3mjn.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6wo91t9ny3mjn/hls/live/2042872/majha/master.m3u8
 
 #EXTINF:-1 channel-id="IN4600012BD" tvg-id="IN4600012BD" tvg-chno="1004" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",ABP News
-https://jmp2.uk/stvp-IN4600012BD
+https://cc-r46wc5dtmorhv.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r46wc5dtmorhv/hls/live/2042871-b/abpnews/master.m3u8
 
 #EXTINF:-1 channel-id="IN400056QQ" tvg-id="IN400056QQ" tvg-chno="1927" tvg-name="Ace TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400056QQ_20260623T013607SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Sports",Ace TV
-https://jmp2.uk/stvp-IN400056QQ
+https://cc-blreuvj5rdh6z.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-blreuvj5rdh6z/ptnr-samsung/title-ACE_TV/WiseM3U8_30/sofast/cleanhls/master.m3u8
 
 #EXTINF:-1 channel-id="INBD13000043W" tvg-id="INBD13000043W" tvg-chno="1276" tvg-name="Animax" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Animax
-https://jmp2.uk/stvp-INBD13000043W
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN800012RO" tvg-id="IN800012RO" tvg-chno="1564" tvg-name="Asianet News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20260623T013616SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",Asianet News
-https://jmp2.uk/stvp-IN800012RO
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN8000106W" tvg-id="IN8000106W" tvg-chno="1554" tvg-name="Asianet Suvarna News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000106W_20260623T013622SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",Asianet Suvarna News
-https://jmp2.uk/stvp-IN8000106W
+https://amg13737-amg13737c2-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c2-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN26000170D" tvg-id="IN26000170D" tvg-chno="2110" tvg-name="Astro Tak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20260623T013628SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Lifestyle",Astro Tak
-https://jmp2.uk/stvp-IN26000170D
+https://amg01448-amg01448c20-samsung-in-4354.playouts.now.amagi.tv/playlist/amg01448-samsungindia-astrotak-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN3600007DC" tvg-id="IN3600007DC" tvg-chno="1230" tvg-name="Auto Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20260623T013634SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Auto Live
-https://jmp2.uk/stvp-IN3600007DC
+https://cc-rqesev1smfi0v.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqesev1smfi0v/v1/channel/Auto-Live/Auto-Live_m.m3u8
 
 #EXTINF:-1 channel-id="IN400054UF" tvg-id="IN400054UF" tvg-chno="2039" tvg-name="Automotions" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400054UF_20260623T013639SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Infotainment",Automotions
-https://jmp2.uk/stvp-IN400054UF
+https://cc-bk9p672fnnkix.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bk9p672fnnkix/ptnr-samsung/title-AUTOMOTIONS/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8
 
 #EXTINF:-1 channel-id="IN39000307N" tvg-id="IN39000307N" tvg-chno="1158" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",B4U Bhojpuri
-https://jmp2.uk/stvp-IN39000307N
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:-1 channel-id="IN39000187Z" tvg-id="IN39000187Z" tvg-chno="1119" tvg-name="B4U Kadak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20260812T010929SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",B4U Kadak
-https://jmp2.uk/stvp-IN39000187Z
+https://amg00877-amg00877c4-samsung-in-6977.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN3900016WI" tvg-id="IN3900016WI" tvg-chno="1117" tvg-name="B4U Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260818T082624SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",B4U Movies
-https://jmp2.uk/stvp-IN3900016WI
+https://amg00877-amg00877c2-samsung-in-6975.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN3900017KM" tvg-id="IN3900017KM" tvg-chno="1606" tvg-name="B4U Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20260623T013703SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",B4U Music
-https://jmp2.uk/stvp-IN3900017KM
+https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN4900012F9" tvg-id="IN4900012F9" tvg-chno="1826" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900012F9_20260915T042052SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Kids",BABY SHARK TV
-https://jmp2.uk/stvp-IN4900012F9
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q2ea44k2f4239.m3u8
 
 #EXTINF:-1 channel-id="INBC2800008VD" tvg-id="INBC2800008VD" tvg-chno="1638" tvg-name="Balle Balle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20260623T013717SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",Balle Balle
-https://jmp2.uk/stvp-INBC2800008VD
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-balleballe-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN4000517J" tvg-id="IN4000517J" tvg-chno="1133" tvg-name="Best Action TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000517J_20260623T013723SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",Best Action TV
-https://jmp2.uk/stvp-IN4000517J
+https://cc-jyhzblhicxo7z.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jyhzblhicxo7z/ptnr-samsung/genre-Entertainment/lang-English/ctgr-Movies/title-BEST_ACTION/sofastplayout/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
 
 #EXTINF:-1 channel-id="IN4600011RZ" tvg-id="IN4600011RZ" tvg-chno="1700" tvg-name="Bhakti Play" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20260929T041322SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Bhakti Play
-https://jmp2.uk/stvp-IN4600011RZ
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-agd92qzp0mxl9.m3u8
 
 #EXTINF:-1 channel-id="INBA5100022O4" tvg-id="INBA5100022O4" tvg-chno="1476" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20260623T011857SQUARE.png" tvg-group="Bharat/" group-title="Bharat;English News",Bloomberg Originals
-https://jmp2.uk/stvp-INBA5100022O4
+https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBA5100021WP" tvg-id="INBA5100021WP" tvg-chno="1474" tvg-name="Bloomberg TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20260623T011902SQUARE.png" tvg-group="Bharat/" group-title="Bharat;English News",Bloomberg TV
-https://jmp2.uk/stvp-INBA5100021WP
+https://dcfcae89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN4000600Q" tvg-id="IN4000600Q" tvg-chno="1002" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261020T052421SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",Bollygold
-https://jmp2.uk/stvp-IN4000600Q
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-g6lvasa1ob5y5.m3u8
 
 #EXTINF:-1 channel-id="IN4000555E" tvg-id="IN4000555E" tvg-chno="1228" tvg-name="Bollywood Masala" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260623T013738SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Bollywood Masala
-https://jmp2.uk/stvp-IN4000555E
+https://cc-oocjjcprb2v3h.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oocjjcprb2v3h/ptnr-samsung/title-Bollywood_Masala/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8
 
 #EXTINF:-1 channel-id="IN2400004WL" tvg-id="IN2400004WL" tvg-chno="2127" tvg-name="Bon Voyage" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20260623T013742SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Lifestyle",Bon Voyage
-https://jmp2.uk/stvp-IN2400004WL
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001004/hls/master.m3u8
 
 #EXTINF:-1 channel-id="IN3600008TY" tvg-id="IN3600008TY" tvg-chno="2023" tvg-name="Brave Wilderness" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600008TY_20260623T013749SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Infotainment",Brave Wilderness
-https://jmp2.uk/stvp-IN3600008TY
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-uzdm2ow0zjv8g.m3u8
 
 #EXTINF:-1 channel-id="IN3600009O8" tvg-id="IN3600009O8" tvg-chno="1268" tvg-name="Challenge Accepted" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600009O8_20260623T014652SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Challenge Accepted
-https://jmp2.uk/stvp-IN3600009O8
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mjkwy13p0nqes.m3u8
 
 #EXTINF:-1 channel-id="IN2100007QM" tvg-id="IN2100007QM" tvg-chno="1330" tvg-name="Cine Jomjomat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100007QM_20260623T014701SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Cine Jomjomat
-https://jmp2.uk/stvp-IN2100007QM
+https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN490000951" tvg-id="IN490000951" tvg-chno="2152" tvg-name="CJ ENM K-Food & Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN490000951_20260915T042044SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Lifestyle",CJ ENM K-Food & Travel
-https://jmp2.uk/stvp-IN490000951
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-oovomlcdwsnb3.m3u8
 
 #EXTINF:-1 channel-id="IN3800006RD" tvg-id="IN3800006RD" tvg-chno="1665" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800006RD_20260915T042040SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",CJ ENM K-POP
-https://jmp2.uk/stvp-IN3800006RD
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-hiuadzwthxwpk.m3u8
 
 #EXTINF:-1 channel-id="IN49000103E" tvg-id="IN49000103E" tvg-chno="1383" tvg-name="CJ ENM K-Reality" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN49000103E_20260915T042048SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",CJ ENM K-Reality
-https://jmp2.uk/stvp-IN49000103E
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-82efcjmkpr338.m3u8
 
 #EXTINF:-1 channel-id="INBD1300007ST" tvg-id="INBD1300007ST" tvg-chno="1447" tvg-name="CNBC AWAAZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20260728T010408SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Hindi News",CNBC AWAAZ
-https://jmp2.uk/stvp-INBD1300007ST
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cnbcawaaznw18-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD2500015H5" tvg-id="INBD2500015H5" tvg-chno="1508" tvg-name="CNBC Bajar" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20260623T014635SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Regional News",CNBC Bajar
-https://jmp2.uk/stvp-INBD2500015H5
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-nw18bazaar-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD1300008ZY" tvg-id="INBD1300008ZY" tvg-chno="1472" tvg-name="CNBC TV18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20260623T014642SQUARE.png" tvg-group="Bharat/" group-title="Bharat;English News",CNBC TV18
-https://jmp2.uk/stvp-INBD1300008ZY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="INBD1300009QZ" tvg-id="INBD1300009QZ" tvg-chno="1458" tvg-name="CNN News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20260915T042122SQUARE.png" tvg-group="Bharat/" group-title="Bharat;English News",CNN News18
-https://jmp2.uk/stvp-INBD1300009QZ
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN3600006RT" tvg-id="IN3600006RT" tvg-chno="1204" tvg-name="Comedy King" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260623T014707SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Comedy King
-https://jmp2.uk/stvp-IN3600006RT
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-ck61vv76day3g.m3u8
 
 #EXTINF:-1 channel-id="IN800005S8" tvg-id="IN800005S8" tvg-chno="1620" tvg-name="Concerto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800005S8_20260623T014713SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",Concerto
-https://jmp2.uk/stvp-IN800005S8
+https://amg01076-amg01076c14-samsung-in-7057.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN46000105Q" tvg-id="IN46000105Q" tvg-chno="2104" tvg-name="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260623T014720SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Lifestyle",Cook & Bake
-https://jmp2.uk/stvp-IN46000105Q
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-sg3jt8k3tr79f.m3u8
 
 #EXTINF:-1 channel-id="IN1300001NN" tvg-id="IN1300001NN" tvg-chno="1900" tvg-name="Cricket Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20260701T005037SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Sports",Cricket Gold
-https://jmp2.uk/stvp-IN1300001NN
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-z19szuojw4aig.m3u8
 
 #EXTINF:-1 channel-id="IN24000030L" tvg-id="IN24000030L" tvg-chno="1282" tvg-name="Crime Scene TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20260623T014729SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Crime Scene TV
-https://jmp2.uk/stvp-IN24000030L
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001003/hls/master.m3u8
 
 #EXTINF:-1 channel-id="IN2600015OO" tvg-id="IN2600015OO" tvg-chno="1216" tvg-name="Crime Tak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20260623T014736SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Crime Tak
-https://jmp2.uk/stvp-IN2600015OO
+https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN30009003" tvg-id="IN30009003" tvg-chno="1709" tvg-name="Dharma Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260623T014742SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Dharma Live
-https://jmp2.uk/stvp-IN30009003
+https://cc-a8q0jnl3p75g9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a8q0jnl3p75g9/v1/channel/DharmaLIVE/DharmaLIVE_m.m3u8
 
 #EXTINF:-1 channel-id="IN460001727" tvg-id="IN460001727" tvg-chno="1122" tvg-name="Dishoom Films" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001727_20260805T003945SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies",Dishoom Films
-https://jmp2.uk/stvp-IN460001727
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-eh4dbez0blej8.m3u8
 
 #EXTINF:-1 channel-id="INBD13000053R" tvg-id="INBD13000053R" tvg-chno="1703" tvg-name="Divya" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20260623T014748SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Divya
-https://jmp2.uk/stvp-INBD13000053R
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-du7x00l2zosti.m3u8
 
 #EXTINF:-1 channel-id="IN1600002IQ" tvg-id="IN1600002IQ" tvg-chno="1706" tvg-name="Divya Bhajan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600002IQ_20260930T010445SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Divya Bhajan
-https://jmp2.uk/stvp-IN1600002IQ
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-z3cilzvuk9ubb.m3u8
 
 #EXTINF:-1 channel-id="IN8000186A" tvg-id="IN8000186A" tvg-chno="2040" tvg-name="DocuBay" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000186A_20260818T082631SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Infotainment",DocuBay
-https://jmp2.uk/stvp-IN8000186A
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN3900002KB" tvg-id="IN3900002KB" tvg-chno="1226" tvg-name="E24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900002KB_20260623T014801SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",E24
 https://jmp2.uk/stvp-IN3900002KB
