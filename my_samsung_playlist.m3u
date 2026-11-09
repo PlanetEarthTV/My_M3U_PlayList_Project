@@ -429,6 +429,12 @@ https://amg00862-amg00862c7-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c9-amgplt0016.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0016/playlist.m3u8
 
 
+# --------------------------------------------- Not Working ---------------------------------------------
+
+#EXTINF:-1 channel-id="IN4900011OU" tvg-id="IN4900011OU" tvg-chno="1667" tvg-name="@K-MUSIC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260623T013522SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",@K-MUSIC
+https://ads.its-newid.net/api/manifest.m3u8
+
+
 
 # --- Country : UK / United Kingdom ---
 # --- Playlist Status : Active ---

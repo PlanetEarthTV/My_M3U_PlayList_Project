@@ -44,9 +44,6 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xta
 #EXTINF:-1 channel-id="IN38000050P" tvg-id="IN38000050P" tvg-chno="1600" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9XM
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q4ao9zhscna6u.m3u8
 
-#EXTINF:-1 channel-id="IN4900011OU" tvg-id="IN4900011OU" tvg-chno="1667" tvg-name="@K-MUSIC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260623T013522SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",@K-MUSIC
-https://ads.its-newid.net/api/manifest.m3u8
-
 
 
 # -----------------------------------------------------------------------------------------------------------------------
@@ -90,9 +87,6 @@ https://cc-3f3ko249x4k52.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 channel-id="IN4000012ML" tvg-id="IN4000012ML" tvg-chno="1446" tvg-name="News State MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000012ML_20260623T015408SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News State MP CG
 https://cc-jwd96atz4mxfd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jwd96atz4mxfd/nntv/nnmp/index.m3u8
 
-#EXTINF:-1 channel-id="IN300083R1" tvg-id="IN300083R1" tvg-chno="1438" tvg-name="News State PUN HAR HIM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300083R1_20260623T015412SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News State PUN HAR HIM
-https://cc-bem7bmz6ukynx.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bem7bmz6ukynx/nntv/nnpunj/index.m3u8
-
 #EXTINF:-1 channel-id="IN3000846P" tvg-id="IN3000846P" tvg-chno="1442" tvg-name="News State UP UK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000846P_20260623T015417SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News State UP UK
 https://cc-ffw4i5fk0c0ox.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ffw4i5fk0c0ox/nntv/nnup/index.m3u8
 
@@ -132,6 +126,9 @@ https://cc-2f2eg1ut72oa6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 channel-id="INBD2500017JZ" tvg-id="INBD2500017JZ" tvg-chno="1496" tvg-name="News18 Punjab Haryana" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20260623T015456SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Punjabi",News18 Punjab Haryana
 https://amg02674-network18fast-amg02674c14-samsung-in-2325.playouts.now.amagi.tv/playlist/amg02674-network18fast-nw18punjabhrhp-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="IN300083R1" tvg-id="IN300083R1" tvg-chno="1438" tvg-name="News State PUN HAR HIM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300083R1_20260623T015412SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News State PUN HAR HIM
+https://cc-bem7bmz6ukynx.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bem7bmz6ukynx/nntv/nnpunj/index.m3u8
 
 
 
