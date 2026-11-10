@@ -20,29 +20,32 @@
 
 
 # -----------------------------------------------------------------------------------------------------------------------
-# ------------------------------ Devotional / Religious / Bhakti / Dharma / Bhajan / Holy -------------------------------
+# ------------------------ Devotional / Spiritual / Religious / Bhakti / Dharma / Bhajan / Holy -------------------------
 # -----------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 channel-id="IN3900027S7" tvg-id="IN3900027S7" tvg-chno="1201" tvg-name="Aashirwad TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261020T052417SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Aashirwad TV
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-l4etigtqsegxm.m3u8
 
+#EXTINF:-1 channel-id="IN4600011RZ" tvg-id="IN4600011RZ" tvg-chno="1700" tvg-name="Bhakti Play" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20260929T041322SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Bhakti Play
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-agd92qzp0mxl9.m3u8
+
+#EXTINF:-1 channel-id="IN30009003" tvg-id="IN30009003" tvg-chno="1709" tvg-name="Dharma Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260623T014742SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Dharma Live
+https://cc-a8q0jnl3p75g9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a8q0jnl3p75g9/v1/channel/DharmaLIVE/DharmaLIVE_m.m3u8
+
+#EXTINF:-1 channel-id="INBD13000053R" tvg-id="INBD13000053R" tvg-chno="1703" tvg-name="Divya" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20260623T014748SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Divya
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-du7x00l2zosti.m3u8
+
+#EXTINF:-1 channel-id="IN1600002IQ" tvg-id="IN1600002IQ" tvg-chno="1706" tvg-name="Divya Bhajan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600002IQ_20260930T010445SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Devotional",Divya Bhajan
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-z3cilzvuk9ubb.m3u8
+
 
 
 # -----------------------------------------------------------------------------------------------------------------------
-# ----------------------------------------------- Music / Singing / Dance -----------------------------------------------
+# ------------------------------------------------------ Astrology ------------------------------------------------------
 # -----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 channel-id="INBC2800013L6" tvg-id="INBC2800013L6" tvg-chno="1604" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20260623T013459SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Jalwa
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-
-#EXTINF:-1 channel-id="INBC28000144H" tvg-id="INBC28000144H" tvg-chno="1632" tvg-name="9X Jhakaas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20260623T013505SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Jhakaas
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1 channel-id="INBC2800011JL" tvg-id="INBC2800011JL" tvg-chno="1636" tvg-name="9X Tashan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20260623T013512SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9X Tashan
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-
-#EXTINF:-1 channel-id="IN38000050P" tvg-id="IN38000050P" tvg-chno="1600" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",9XM
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q4ao9zhscna6u.m3u8
+#EXTINF:-1 channel-id="IN26000170D" tvg-id="IN26000170D" tvg-chno="2110" tvg-name="Astro Tak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20260623T013628SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Astrology",Astro Tak
+https://amg01448-amg01448c20-samsung-in-4354.playouts.now.amagi.tv/playlist/amg01448-samsungindia-astrotak-samsungin/playlist.m3u8
 
 
 
@@ -114,6 +117,9 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeebusin
 #EXTINF:-1 channel-id="INBC4300010Z6" tvg-id="INBC4300010Z6" tvg-chno="1402" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260915T042211SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",Zee News
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeenews-samsungin/playlist.m3u8
 
+#EXTINF:-1 channel-id="IN4000555E" tvg-id="IN4000555E" tvg-chno="1228" tvg-name="Bollywood Masala" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260623T013738SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",Bollywood Masala
+https://cc-oocjjcprb2v3h.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oocjjcprb2v3h/ptnr-samsung/title-Bollywood_Masala/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8
+
 
 
 # -----------------------------------------------------------------------------------------------------------------------
@@ -176,6 +182,48 @@ https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 # -----------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------- Nature / Wildlife --------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Movies / Film / Cinema ------------------------------------------------
+# -------------------------------------------------------- Hindi --------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN39000187Z" tvg-id="IN39000187Z" tvg-chno="1119" tvg-name="B4U Kadak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20260812T010929SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies;Hindi",B4U Kadak
+https://amg00877-amg00877c4-samsung-in-6977.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="IN3900016WI" tvg-id="IN3900016WI" tvg-chno="1117" tvg-name="B4U Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260818T082624SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies;Hindi",B4U Movies
+https://amg00877-amg00877c2-samsung-in-6975.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="IN4000600Q" tvg-id="IN4000600Q" tvg-chno="1002" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20261020T052421SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies;Hindi",Bollygold
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-g6lvasa1ob5y5.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Movies / Film / Cinema ------------------------------------------------
+# ------------------------------------------------------- English -------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN4000517J" tvg-id="IN4000517J" tvg-chno="1133" tvg-name="Best Action TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000517J_20260623T013723SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies;English",Best Action TV
+https://cc-jyhzblhicxo7z.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jyhzblhicxo7z/ptnr-samsung/genre-Entertainment/lang-English/ctgr-Movies/title-BEST_ACTION/sofastplayout/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Movies / Film / Cinema ------------------------------------------------
+# ------------------------------------------------------ Bhojpuri -------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN39000307N" tvg-id="IN39000307N" tvg-chno="1158" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Movies;Bhojpuri",B4U Bhojpuri
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
 # ------------------------------------------------------- Sports --------------------------------------------------------
 # -----------------------------------------------------------------------------------------------------------------------
 
@@ -185,11 +233,78 @@ https://cc-blreuvj5rdh6z.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 # -----------------------------------------------------------------------------------------------------------------------
-# --------------------------------------------- Animation / Cartoon / Kids ----------------------------------------------
+# ------------------------------------------------- Animation / Cartoon -------------------------------------------------
 # -----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 channel-id="INBD13000043W" tvg-id="INBD13000043W" tvg-chno="1276" tvg-name="Animax" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Entertainment",Animax
+#EXTINF:-1 channel-id="INBD13000043W" tvg-id="INBD13000043W" tvg-chno="1276" tvg-name="Animax" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Animation",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------ Lifestyle ------------------------------------------------------
+# ----------------------------------------------------- Automotive ------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN3600007DC" tvg-id="IN3600007DC" tvg-chno="1230" tvg-name="Auto Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20260623T013634SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Automotive",Auto Live
+https://cc-rqesev1smfi0v.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqesev1smfi0v/v1/channel/Auto-Live/Auto-Live_m.m3u8
+
+#EXTINF:-1 channel-id="IN400054UF" tvg-id="IN400054UF" tvg-chno="2039" tvg-name="Automotions" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400054UF_20260623T013639SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Automotive",Automotions
+https://cc-bk9p672fnnkix.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bk9p672fnnkix/ptnr-samsung/title-AUTOMOTIONS/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Music / Singing / Dance -----------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN3900017KM" tvg-id="IN3900017KM" tvg-chno="1606" tvg-name="B4U Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20260623T013703SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music",B4U Music
+https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Music / Singing / Dance -----------------------------------------------
+# -------------------------------------------------------- Hindi --------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="INBC2800013L6" tvg-id="INBC2800013L6" tvg-chno="1604" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20260623T013459SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music;Hindi",9X Jalwa
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="IN38000050P" tvg-id="IN38000050P" tvg-chno="1600" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music;Hindi",9XM
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q4ao9zhscna6u.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Music / Singing / Dance -----------------------------------------------
+# ------------------------------------------------------- Punjabi -------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="INBC2800011JL" tvg-id="INBC2800011JL" tvg-chno="1636" tvg-name="9X Tashan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20260623T013512SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music;Punjabi",9X Tashan
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="INBC2800008VD" tvg-id="INBC2800008VD" tvg-chno="1638" tvg-name="Balle Balle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20260623T013717SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music;Punjabi",Balle Balle
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-balleballe-samsungin/playlist.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------- Music / Singing / Dance -----------------------------------------------
+# ------------------------------------------------------- Marathi -------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="INBC28000144H" tvg-id="INBC28000144H" tvg-chno="1632" tvg-name="9X Jhakaas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20260623T013505SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Music;Marathi",9X Jhakaas
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+
+
+# -----------------------------------------------------------------------------------------------------------------------
+# --------------------------------------------- Kids / Babies / Education -----------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 channel-id="IN4900012F9" tvg-id="IN4900012F9" tvg-chno="1826" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900012F9_20260915T042052SQUARE.png" tvg-group="Bharat/" group-title="Bharat;Kids",BABY SHARK TV
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-q2ea44k2f4239.m3u8
 
 
 
@@ -321,13 +436,6 @@ https://amg17783-amg17783c1-amgplt0016.playout.now3.amagi.tv/playlist/amg17783-a
 
 #EXTINF:-1 channel-id="INBD25000148M" tvg-id="INBD25000148M" tvg-chno="1534" tvg-name="News18 Tamil Nadu" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000148M_20260623T015502SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Tamil",News18 Tamil Nadu
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-nw18tamil-samsungin/playlist.m3u8
-
-
-
-# -----------------------------------------------------------------------------------------------------------------------
-# -------------------------------------------------------- News ---------------------------------------------------------
-# ------------------------------------------------------ Regional -------------------------------------------------------
-# -----------------------------------------------------------------------------------------------------------------------
 
 
 
