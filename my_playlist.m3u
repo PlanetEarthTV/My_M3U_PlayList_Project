@@ -93,7 +93,7 @@ https://cc-ffw4i5fk0c0ox.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 channel-id="INBD1300010WP" tvg-id="INBD1300010WP" tvg-chno="1003" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261102T074351SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News18 India
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 
-#EXTINF:-1 channel-id="IN3900001YE" tvg-id="IN3900001YE" tvg-chno="1428" tvg-name="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20260623T015508SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News24
+#EXTINF:-1 channel-id="IN3900001YE" tvg-id="IN3900001YE" tvg-chno="1428" tvg-name="News 24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20260623T015508SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News 24
 https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 channel-id="IN2100008VF" tvg-id="IN2100008VF" tvg-chno="1444" tvg-name="News24 MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100008VF_20260623T015515SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News24 MP CG
@@ -127,7 +127,7 @@ https://cc-2f2eg1ut72oa6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 channel-id="INBD2500017JZ" tvg-id="INBD2500017JZ" tvg-chno="1496" tvg-name="News18 Punjab Haryana" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20260623T015456SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Punjabi",News18 Punjab Haryana
 https://amg02674-network18fast-amg02674c14-samsung-in-2325.playouts.now.amagi.tv/playlist/amg02674-network18fast-nw18punjabhrhp-samsungin/playlist.m3u8
 
-#EXTINF:-1 channel-id="IN300083R1" tvg-id="IN300083R1" tvg-chno="1438" tvg-name="News State PUN HAR HIM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300083R1_20260623T015412SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Hindi",News State PUN HAR HIM
+#EXTINF:-1 channel-id="IN300083R1" tvg-id="IN300083R1" tvg-chno="1438" tvg-name="News State PUN HAR HIM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300083R1_20260623T015412SQUARE.png" tvg-group="Bharat/" group-title="Bharat;News;Punjabi",News State PUN HAR HIM
 https://cc-bem7bmz6ukynx.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bem7bmz6ukynx/nntv/nnpunj/index.m3u8
 
 
